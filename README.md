@@ -4,10 +4,9 @@ mesclado com a multiplicação padrão de matrizes para melhorar o desempenho em
 
 ## Tempo de execução do código para cada caso teste 
 
-Tempo de execução para 1.in: 0.000005 segundos
-
-Tempo de execução para 2.in: 0.000003 segundos
-
-Tempo de execução para 3.in: 0.963283 segundos
-
-Tempo de execução para 4.in: 0.929533 segundos
+| Entrada | Tempo(s) |
+| --------- | --------- |
+| 1.in | **0.000005** |
+| 2.in | **0.000003** |
+| 3.in | **0.963283** |
+| 4.in | **0.929533** |
